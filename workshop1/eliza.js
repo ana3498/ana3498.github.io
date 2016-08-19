@@ -29,7 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "Hey binch!"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -44,9 +44,8 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "You better be sorry",
+    "Good, I'm glad you're sorry",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -63,7 +62,7 @@ var rules = {
     "You mentioned ~y",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
+    "We all want things",
     "Why do you want ~y?",
     "Suppose you got ~y soon.",
   ],
@@ -107,8 +106,7 @@ var rules = {
     "Can you explain why you are suddenly ~y?",
   ],
   "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
-    "I'm sure it's not pleasant to be sad",
+    "Get over it.",
   ],
   "~*x are like ~*y": [
     "What resemblence do you see between ~x and ~y?",
